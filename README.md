@@ -2,7 +2,7 @@
 
 Lean Six Sigma DMAIC case study focused on process visibility, cycle time, margin risk, and better pre-award decision-making.
 
-![Executive summary of the Bjerk Builders analysis](visuals/01-executive-summary.png)
+![Executive summary of the Bjerk Builders analysis](01-executive-summary.png)
 
 ## Project Snapshot
 
@@ -45,7 +45,7 @@ The process capability analysis covered 428 completed projects.
 
 The control analysis showed a statistically stable process after special-cause review. That did not mean the process was performing well. Under-margin projects remained a recurring part of normal performance.
 
-![Sanitized process capability summary](visuals/02-process-capability.png)
+![Sanitized process capability summary](02-process-capability.png)
 
 ### Most estimated lead time was concentrated in a few stages
 
@@ -55,7 +55,7 @@ Because owner design completion is externally driven, the analysis did not treat
 
 Historical stage timestamps were unavailable, so these cycle-time conclusions were based on planning ranges rather than measured historical durations.
 
-![Sanitized Pareto analysis of pre-award lead time](visuals/03-cycle-time-pareto.png)
+![Sanitized Pareto analysis of pre-award lead time](03-cycle-time-pareto.png)
 
 ### A cost-commitment gap provided an early margin-risk signal
 
@@ -89,7 +89,7 @@ Seven recommendations were organized into three connected priorities.
 - Establish one timestamped pursuit log with stage, owner, date-in, date-out, and aging fields.
 - Standardize project-type fields, live forecasting, and continuous closeout updates.
 
-![Sanitized overview of the seven recommendations](visuals/04-recommendations.png)
+![Sanitized overview of the seven recommendations](04-recommendations.png)
 
 ## Projected Business Impact
 
@@ -97,7 +97,7 @@ The financial model estimated approximately **$940,000 in annual margin recovery
 
 This is a modeled opportunity, not realized savings. It was based on historical completed-project performance and partial capture of identified margin leakage. Estimated cycle-time benefits were excluded from the financial projection and treated as potential additional capacity.
 
-![Sanitized projected business-impact summary](visuals/05-projected-business-impact.png)
+![Sanitized projected business-impact summary](05-projected-business-impact.png)
 
 ## Implementation Roadmap
 
