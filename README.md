@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <img src="bjerk-builders-logo.jpeg" alt="Bjerk Builders Logo" width="42%">
 </p>
 
